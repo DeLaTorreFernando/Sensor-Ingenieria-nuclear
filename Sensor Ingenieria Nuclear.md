@@ -10,6 +10,8 @@ mayor importancia que presentan dichas sustancias.
 
 El peróxido de hidrógeno es un producto de radiólisis del agua que se forma bajo radiación gamma; por lo tanto, su detección confiablees crucial en la industria nuclear para la gestión del combustible gastado y la química del refrigerante.
  Este estudio propone unasensor electroquímico para la detección de peróxido de hidrógeno. Cisteamina (CYST), nanopartículas de oro (GNP) yperoxidasa de rábano picante (HRP) se utilizó en la modificación de un electrodo de oro para fabricar Au / CYST / GNP / HRPsensor. Cada paso de modificación del electrodo se investigó mediante métodos electroquímicos y físicos. Lasensor exhibió una fuerte sensibilidad y estabilidad para la detección y medición de peróxido de hidrógeno con unrango lineal de 1 a 9 mM. Además, se aplicó la ecuación cinética de Michaelis-Menten para predecir la reaccióncurva, y se sugiere un método cuantitativo para definir el rango dinámico. El sensor es muy sensible al H<sub>2</sub>O<sub> 2</sub> y puede ser aplicado como un electroquímica H<sub>2</sub>O<sub> 2</sub> Sensor en la industria nuclear.
+
+
 #INTRODUCCIÓN
 
 En la actualidad los sensores han evolucionado periodicamente a un ritmo impresionante y los ingenieros quimicos encontraron la forma de que estos sensores puedan beneficiarlos a ellos tambien ya que en las industrias nucleares es son muy necesarias estas tecnologias para que puedan tener mas seguridad los trabajares involucrados en la empresa ya que estos podrian sufrir accidentes en los cuales pueden hasta perder la vida. 
