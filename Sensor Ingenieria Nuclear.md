@@ -164,3 +164,28 @@ exhalado por los pacientes
 Con el estudio del sensor electroquímico dimos por hecho que pudo ser estable a los cambios de concentración y no mostró ninguna deformación. Las condiciones óptimas para la difusión Se determinó la reacción controlada en el sensor. La corriente catódica del sensor en el rango más allá del medida se estimó utilizando la ecuación cinética de Michaelis-Menten y una definición cuantitativa de la dinámica Se sugiere rango. El sensor es muy sensible al H<sub> 2</sub> O <sub>2</sub> y se puede aplicar como sensor electroquímico de H<sub> 2</sub> O <sub>2</sub> en la industria nuclear, incluida la química de los refrigerantes y la gestión del combustible gastado en términos de seguridad nuclear. 
 
 y al igual los demás sensores que se vieron en este trabajo también realizan un trabajo importante en la protección de los empleados de las empresas nucleares y el indice de accidentes en dichas empresas a bajado  considerablemente y se espera que en un futuro este indice igual siga bajando con mas modelos de sensores que ayuden a esta empresa.
+
+# REFERENCIAS
+* <b>[1]</b>K.Hata, H. Inoue, T. Kojima, A. Iwase, S.
+Kasahara, S. Hanawa, F. Ueno, T. Tsukada, Hydrogen Peroxide Production by Gamma Radiolysis of Sodium Chloride Solutions Containing a Small Amount of Bromide
+Ion, Nucl. Technol. 193 (2017) 434–443. https://doi.org/10.13182/NT15-32. 
+* <b>[2]</b> C. Corbel, V. Wasselin-Trupin, B. Hickel, D. Feron, M. Roy, F. Maurel, Effect of irradiation on long term
+alteration of oxides and metals in aqueous solutions, (2003).
+https://inis.iaea.org/search/search.aspx?orig_q=RN:35038877 (accessed April 10, 2020).
+* <b>[3}</b> Å. Björkbacka, S. Hosseinpour, C. Leygraf, M. Jonsson, Radiation induced corrosion of copper in anoxic
+aqueous solution, Electrochem. Solid-State Lett. 15 (2012). https://doi.org/10.1149/2.022205esl.
+* <b>[4]</b> Å. Björkbacka, S. Hosseinpour, M. Johnson, C. Leygraf, M. Jonsson, Radiation induced corrosion of copper
+for spent nuclear fuel storage, Radiat. Phys. Chem. 92 (2013) 80–86.
+https://doi.org/10.1016/J.RADPHYSCHEM.2017.06.033.
+* <b>[5]</b> G. Sattonnay, C. Ardois, C. Corbel, J.F. Lucchini, M.-F. Barthe, F. Garrido, D. Gosset, Alpha-radiolysis
+effects on UO2 alteration in water, J. Nucl. Mater. 288 (2017) 11–19. https://doi.org/10.1016/S0022-
+3115(00)00714-5.
+* <b>[6]</b> J.P. Simpson, P.H. Valloton, Experiments on container materials for Swiss high-level waste disposal
+projects Part II, Nagra NTB. (1984) 1–84.
+* <b>[7]</b> W.H. Yunker, R.S. Glass, Long-Term Corrosion Behavior of Copper-Base Materials in a Gamma-Irradiated
+Environment, MRS Proc. 84 (1986) 579. https://doi.org/DOI: 10.1557/PROC-84-579.
+* <b>[8]</b> F. King, C.D. Litke, The Corrosion of Copper in Synthetic Groundwater at 150 C-Part I. The Results of
+Short-Term Electrochemical Tests, (1987).
+* <b>[9]</b> J. Kass, Evaluation of copper, aluminum bronze, and copper-nickel container material for the Yucca
+mountain project, Canada, 1990. http://inis.iaea.org/search/search.aspx?orig_q=RN:23004457.
+
