@@ -15,7 +15,13 @@ El peróxido de hidrógeno es un producto de radiólisis del agua que se forma b
 # INTRODUCCIÓN
 
 En la actualidad los sensores han evolucionado periodicamente a un ritmo impresionante y los ingenieros quimicos encontraron la forma de que estos sensores puedan beneficiarlos a ellos tambien ya que en las industrias nucleares es son muy necesarias estas tecnologias para que puedan tener mas seguridad los trabajares involucrados en la empresa ya que estos podrian sufrir accidentes en los cuales pueden hasta perder la vida. 
+Para ello, se realizan evaluaciones de riesgos y se adoptan medidas en función de los resultados obtenidos, y es en
+este aspecto donde los sistemas de detección son de vital importancia, facilitando la prevención y
+reduciendo el tiempo de actuación y, en consecuencia, el número de víctimas en situaciones de alerta
+por sustancias peligrosas.
+
 Como se vera a continuacion se mostraran algunos sensores que ya estan implementados en las industrias nucleares y cual es su funcionamiento aunque nos basaremos el sensor electroquimico con algunas especificaciones extras.
+
 
 # Clasificación de mercancías peligrosas
 Esta clasificación consta de nueve clases las cuales pueden desglosarse a su vez en otras, sin que su
