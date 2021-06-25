@@ -41,8 +41,10 @@ Pertenecen a esta clase aquellas sustancias que pueden provocar o favorecer la c
 
 <b>
 Clase 6: Sustancias tóxicas y sustancias infecciosas.
+ 
 
 Clase 7: Material radiactivo
+ 
 
 Clase 8: Sustancias corrosivas
 
